@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/action1"
+        android:orderInCategory="1"
+        android:title="Белый" />
+    <item
+        android:id="@+id/action2"
+        android:orderInCategory="2"
+        android:title="Синий" />
+    <item
+        android:id="@+id/action3"
+        android:orderInCategory="3"
+        android:title="Красный" />
+    </group>
+</menu>
